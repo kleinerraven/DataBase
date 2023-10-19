@@ -1,10 +1,12 @@
 {
     "Screws":[
     {
-        "Name": "M1"
+        "Name": "M1",
+        "id": 1
     },
     {
-        "Name": "M2"
+        "Name": "M2",
+        "id": 2
     }
     ]
 }
