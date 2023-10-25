@@ -2,7 +2,8 @@
     "Screws":[
     {
         "name": "M1x8",
-        "id": 1
+        "id": 1,
+        "location": "A3"
     },
     {
         "name": "M2",
