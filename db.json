@@ -3,7 +3,8 @@
     {
         "name": "M1x8",
         "id": 1,
-        "location": "A3"
+        "location": "A3",
+        "amount": 100
     },
     {
         "name": "M2",
