@@ -4,7 +4,9 @@
         "name": "M1x8",
         "id": 1,
         "location": "A3",
-        "amount": 100
+        "amount": 100,
+        "picture": "Picture",
+        "propertys": "magnetic, gold"
     },
     {
         "name": "M2",
