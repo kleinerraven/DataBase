@@ -3,14 +3,66 @@
     {
         "name": "M1x8",
         "id": 1,
-        "location": "A3",
+        "location": "A8",
         "amount": 100,
         "picture": "Picture",
-        "propertys": "magnetic, gold"
+        "propertys": "Screws, Magnetic, Gold"
     },
     {
-        "name": "M2",
-        "id": 2
+        "name": "M2x5",
+        "id": 2,
+        "location": "B5",
+        "amount": 300,
+        "picture": "Picture",
+        "propertys": "Screws, Silver"
+    },
+    {
+        "name": "M1x2",
+        "id": 3,
+        "location": "A2",
+        "amount": 300,
+        "picture": "Picture",
+        "propertys": "Screws, Gold"
+    },
+    {
+        "name": "M3x1",
+        "id": 4,
+        "location": "C1",
+        "amount": 300,
+        "picture": "Picture",
+        "propertys": "Screws, Magnetic, Silver"
+    },
+    {
+        "name": "M7x3",
+        "id": 5,
+        "location": "G3",
+        "amount": 300,
+        "picture": "Picture",
+        "propertys": "Screws, Coper"
+    },
+    {
+        "name": "M2x10",
+        "id": 6,
+        "location": "B10",
+        "amount": 300,
+        "picture": "Picture",
+        "propertys": "Screws, Magnetic, Coper"
+    },
+    {
+        "name": "M1x18",
+        "id": 7,
+        "location": "A18",
+        "amount": 300,
+        "picture": "Picture",
+        "propertys": "Screws, magnetic, Gold"
+    },
+    {
+        "name": "M4x9",
+        "id": 8,
+        "location": "D9",
+        "amount": 50,
+        "picture": "Picture",
+        "propertys": "Screws, Coper"
     }
     ]
 }
