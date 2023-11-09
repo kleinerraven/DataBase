@@ -63,6 +63,14 @@
         "amount": 50,
         "picture": "Picture",
         "propertys": "Screws, Coper"
+    },
+    {
+        "name": "Empty",
+        "id": "",
+        "location": "",
+        "amount": "",
+        "picture": "",
+        "propertys": ""
     }
     ]
 }
