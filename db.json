@@ -60,17 +60,33 @@
         "name": "M4x9",
         "id": 7,
         "location": "D9",
-        "amount": 50,
+        "amount": 72,
         "picture": "Picture",
         "propertys": "Screws, Coper"
     },
     {
-        "name": "Empty",
-        "id": "",
-        "location": "",
-        "amount": "",
-        "picture": "",
-        "propertys": ""
+        "name": "M9x4",
+        "id": 8,
+        "location": "I4",
+        "amount": 67,
+        "picture": "Picture",
+        "propertys": "Screws, Coper"
+    },
+    {
+        "name": "M8x8",
+        "id": 9,
+        "location": "H8",
+        "amount": 551,
+        "picture": "Picture",
+        "propertys": "Screws, Coper"
+    },
+    {
+        "name": "M5x9",
+        "id": 120,
+        "location": "E9",
+        "amount": 50,
+        "picture": "Picture",
+        "propertys": "Screws, Coper"
     }
     ]
 }
