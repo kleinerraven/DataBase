@@ -1,6 +1,14 @@
 {
     "all":[
     {
+        "name": "M1x-1000",
+        "id": -1,
+        "location": "A-1000",
+        "amount" : 1,
+        "picture": "No Picture",
+        "propertys": "Lonely, Shy"
+    },
+    {
         "name": "M1x8",
         "id": 0,
         "location": "A8",
